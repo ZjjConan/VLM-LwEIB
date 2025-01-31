@@ -25,8 +25,8 @@ Results reported below are average accuracy across 11 recognition datasets over 
 | [MaPLe](https://arxiv.org/abs/2210.03117)     | 78.55 | 66.30 | 60.27 | 68.37
 | [PromptSRC](https://arxiv.org/pdf/2307.06948) | 79.97 | 65.81 | 60.65 | 68.81
 | [HPT](https://arxiv.org/pdf/2312.06323)       | 80.23 | 67.74 | 60.71 | 69.56
-| LwEIB (Paper)                                 | 81.21 | 68.61 | 60.84 | 70.22
-| LwEIB (This repo)                             | 81.18 | 68.79 | 60.83 | **70.27**
+| **LwEIB (Paper)**                             | 81.21 | 68.61 | 60.84 | 70.22
+| **LwEIB (This repo)**                         | 81.18 | 68.79 | 60.83 | **70.27**
 ------------------------------------------------------------
 <p></p>
 
