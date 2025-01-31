@@ -1,6 +1,7 @@
 ## [**Learning with Enriched Inductive Biases for Vision-Language Models (IJCV2025)**](https://link.springer.com/article/10.1007/s11263-025-02354-1)<br>
 [Lingxiao Yang](https://zjjconan.github.io/), [Ru-Yuan Zhang](https://ruyuanzhang.github.io/), [Qi Chen](https://scholar.google.com.hk/citations?user=TL4VFM4AAAAJ&hl=zh-CN), [Xiaohua Xie](https://cse.sysu.edu.cn/content/2478)
-
+Sun Yat-sen University, Shanghai Jiao Tong University
+IJCV2025
 
 ## Highlights
 
