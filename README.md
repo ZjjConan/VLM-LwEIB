@@ -34,7 +34,7 @@ Some hyper-parameters in **configs** are slightly differeces to our paper, which
 
 <p></p>
 
-We provide all trained models and logs, based on this repo, to reproduce the results (**70.27**) on [BaiduYunPan](https://pan.baidu.com/s/1ZEsQBNOqO7HrrU3tczHeGA)(passcode: **6hge**) and [Google Drive](https://drive.google.com/drive/folders/12UMfd9ECXS3WvauXOtn7W0muzSNTVHwf?usp=drive_link).
+We provide all trained models and logs, based on this repo, to reproduce the results (**70.27**) on [BaiduYunPan](https://pan.baidu.com/s/1ZEsQBNOqO7HrrU3tczHeGA) (passcode: **6hge**) and [Google Drive](https://drive.google.com/drive/folders/12UMfd9ECXS3WvauXOtn7W0muzSNTVHwf?usp=drive_link).
 
 
 ## Installation 
