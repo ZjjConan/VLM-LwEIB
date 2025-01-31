@@ -16,7 +16,7 @@ IJCV2025
 - We evaluate LwEIB on three widely used and challenging few-shot generalization tasks. Experimental results show that LwEIB achieves leading performance among all compared methods in all evaluated benchmarks.
 
 ## All Results over Three Benchmarks
-Results reported below are average accuracy across 11 recognition datasets over 3 seeds. Please refer to our paper for more details.
+Results reported below are average accuracy across 3 evaluated test settings. Please refer to our paper for more details.
 
 | Method | Base2New (HM) | Cross-Datasets | Domain Generalization | Avg |
 | -----: | :-----------: | :------------: | :-------------------: | :-: |
