@@ -1,7 +1,13 @@
 ## [**Learning with Enriched Inductive Biases for Vision-Language Models (IJCV2025)**](https://link.springer.com/article/10.1007/s11263-025-02354-1)<br>
 [Lingxiao Yang](https://zjjconan.github.io/), [Ru-Yuan Zhang](https://ruyuanzhang.github.io/), [Qi Chen](https://scholar.google.com.hk/citations?user=TL4VFM4AAAAJ&hl=zh-CN), [Xiaohua Xie](https://cse.sysu.edu.cn/content/2478)<br>
 Sun Yat-sen University, Shanghai Jiao Tong University<br>
-IJCV2025
+
+### 🔥🔥 New work
+Another related work has been published at T-PAMI2026 that may interest you: <br>
+> MMA++: Effective Multi-Modal Adaptation for Vision-Language Models. <br>
+> Lingxiao Yang, Ru-Yuan Zhang, Yanchen Wang and Xiaohua Xie <br>
+> IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026 <br>
+> [[Paper](https://ieeexplore.ieee.org/document/11534926/)] [[Code](https://github.com/ZjjConan/VLM-MMApp)]
 
 ## Highlights
 
